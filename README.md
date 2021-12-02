@@ -1,6 +1,6 @@
 # Laravel Migration: Seeding from a CSV file
 
-Add row values to your database table from a CSV file.
+Add row values to your database table from a CSV file using Laravel.
 
 This repo contained the Demo code used for the [Article](https://juggernaut.hashnode.dev/paystack-payment-integration-in-react).
 
