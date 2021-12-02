@@ -2,9 +2,9 @@
 
 Add row values to your database table from a CSV file using Laravel.
 
-This repo contained the Demo code used for the [Article](https://juggernaut.hashnode.dev/paystack-payment-integration-in-react).
+This repo contained the Demo code used for the [Article](https://juggernaut.hashnode.dev/laravel-migration-seeding-from-a-csv-file).
 
-Read Article [here](https://juggernaut.hashnode.dev/paystack-payment-integration-in-react).
+Read Article [here](https://juggernaut.hashnode.dev/laravel-migration-seeding-from-a-csv-file).
 
 ## Reference/ Additional Resources:
 
